@@ -3,3 +3,7 @@
   "version": "1.0.0",
   "author": "the tenants"
 }
+"repository": {
+    "type": "git",
+    "url": "https://github.com/ilikadapotata/webring.git"
+},
